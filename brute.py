@@ -305,4 +305,5 @@ def wi():
 
 if __name__ == '__main__':
 	login()
+	menu()
 # https://fb.me/Tendo.Pain8
