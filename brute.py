@@ -186,7 +186,7 @@ def wi():
 		user = arg
 		try:
 			os.mkdir('save')
-		except IOError:
+		except OSError:
 			pass
 
 		try:
