@@ -134,8 +134,8 @@ def menu():
 		os.sys.exit(0)
 	os.system('clear')
 	print logo
-	print '1. Crack From Public'
-	print '2. Crack From friendslist'
+	print '1. Crack From Friendslist'
+	print '2. Crack From Public'
 	print '00. Exit this program'
 	wi()
 
