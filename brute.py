@@ -11,8 +11,8 @@ try:
 	import mechanize
 except ImportError:
 	os.system('python -m pip install mechanize')
-# Coded : Mohammad Taufiq Hidayat
-# Website : www.nagato-offcial23.my.id
+# Re-Edit : Mohammad Taufiq Hidayat
+# Website/Blog : www.nagato-offcial23.my.id
 from requests.exceptions import ConnectionError
 from mechanize import Browser
 reload(sys)
